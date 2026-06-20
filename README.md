@@ -153,22 +153,6 @@ The company is losing higher-value customers.
 
 ---
 
-## Project Structure
-
-```text
-Customer-Churn-Analysis
-│
-├── Dataset
-├── SQL_Queries
-├── Python
-├── PowerBI
-├── Screenshots
-├── Insights
-└── README.md
-```
-
----
-
 ## Dashboard Screenshots
 
 ### Customer Churn Dashboard
