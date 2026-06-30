@@ -53,7 +53,7 @@ IBM Telco Customer Churn Dataset
 | Total Customers | 7,043 |
 | Churned Customers | 1,869 |
 | Churn Rate | 26.58% |
-| Average Monthly Charges | $64.76 |
+| Average Monthly Charges | 64.76 |
 
 ---
 
@@ -121,8 +121,8 @@ Customers with lower tenure are significantly more likely to churn.
 
 | Customer Status | Avg Monthly Charges |
 |-----------------|--------------------:|
-| Retained | $61.27 |
-| Churned | $74.44 |
+| Retained | 61.27 |
+| Churned | 74.44 |
 
 ### Key Finding
 
